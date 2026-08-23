@@ -1,0 +1,9 @@
+com\example\order\domain\events\PaymentRecorded.class
+com\example\order\domain\OrderLine.class
+com\example\order\domain\events\DomainEvent.class
+com\example\order\OrderDomainProjectApplication.class
+com\example\order\controller\OrderController.class
+com\example\order\domain\Order.class
+com\example\order\domain\events\OrderCancelled.class
+com\example\order\domain\OrderStatus.class
+com\example\order\domain\events\OrderConfirmed.class
